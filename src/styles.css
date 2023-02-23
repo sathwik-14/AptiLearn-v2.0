@@ -1,0 +1,18 @@
+*{
+    margin:.1%;
+    padding:.1%;
+}
+
+Card{
+    margin:2%;
+}
+
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.navbar-brand, .navbar-nav .nav-link {
+    color: white;
+  }

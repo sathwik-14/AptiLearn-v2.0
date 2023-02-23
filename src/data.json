@@ -1,0 +1,14 @@
+{
+	"questions":["How many letters are there in \"JS\"?",
+"How many letters are there in \"C\"? ",
+"How many letters are there in \"C++\"?",
+"How many letters are there in \"Java\"?",
+"How many letters are there in \"Python\"? "],
+	"q1":[1,2,3,4],
+    "q2":[1,2,3,4],
+    "q3":[1,2,3,4],
+    "q4":[1,2,3,4],
+    "q5":[1,2,3,6],
+    
+    "ans":["B","A","C","D","D"]
+}
